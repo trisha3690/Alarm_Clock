@@ -1,7 +1,5 @@
 # Simple Alarm Clock
 
-![Alarm Clock Preview](./Components/Preview.png)
-
 A clean, user-friendly alarm clock web application built with HTML, CSS, and JavaScript. This project features a visually appealing interface with real-time clock display and customizable alarm settings.
 
 ## Features
@@ -10,6 +8,8 @@ A clean, user-friendly alarm clock web application built with HTML, CSS, and Jav
 - **Alarm Setting**: Set alarms with hour, minute, and AM/PM selection
 - **Audio Alert**: Plays an audio sound when the alarm time is reached
 - **Button Functionality**: Option to stop the alarm after it's set
+
+<img src="./Components/preview.png" alt="My Project" width="100%">
 
 ## Tech Stack
 
